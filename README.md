@@ -12,6 +12,8 @@ i even learned cpp as additional education or idk how it calls. (but most of stu
 
 already passed away the 16 years of my life since birth.
 
+## [The best way to contact me](https://github.com/user95401/user95401/issues/new)
+Other stuff:
 - https://t.me/user95401_channel
 - https://t.me/userr95401
 - user95401@gmail.com
