@@ -12,6 +12,15 @@ i even learned cpp as additional education or idk how it calls. (but most of stu
 
 already passed away the 16 years of my life since birth.
 
+<details>
+<summary>show stats</summary>
+<br>
+
+![the stats here](https://github-readme-stats.vercel.app/api?username=user95401\&show_icons=true\&theme=transparent)
+
+<br>
+</details>
+
 ## [The best way to contact me](https://github.com/user95401/user95401/issues/new)
 https://github.com/user95401/user95401/issues/new
 
